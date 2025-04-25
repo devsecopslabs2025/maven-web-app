@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to NewGen  - Software Training Institute <font></h1>
+<h1><font color='blue'> Welcome to NewGen  - Software Training Institute <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www.ashokit.in">Click Here To See NewGen Training Schedules</a>
   
   <h2> Call Us : +91-9999887766 </h2>
   
